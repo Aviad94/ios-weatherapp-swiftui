@@ -51,4 +51,4 @@ Apple amazing library [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 
 Open API from [OpenWeatherMap](https://openweathermap.org/api)
 
-Inspiring project from [Weather-SwiftUI](https://github.com/bobbyconti/Weather-SwiftUI)
+Inspiring project from 
